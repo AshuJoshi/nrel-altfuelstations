@@ -1,0 +1,8 @@
+node_modules
+typings
+.vscode
+data
+
+.jshintrc
+typings.json
+jsconfig.json
