@@ -1,7 +1,7 @@
 {
   "name": "nrel-altfuelstation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application to get alternative fuel stations using NREL's Developer API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
